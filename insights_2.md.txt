@@ -1,0 +1,5 @@
+2 – Excel Analysis Insights
+
+- Laptop generated the highest single order value.
+- Electronics category appears most frequently.
+- Bulk quantity orders significantly increase total sales value.
