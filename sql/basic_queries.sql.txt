@@ -1,0 +1,11 @@
+-- View all sales data
+SELECT * FROM sales_data;
+
+-- Select only product and price
+SELECT product, price
+FROM sales_data;
+
+-- Filter only Electronics category
+SELECT *
+FROM sales_data
+WHERE category = 'Electronics';
