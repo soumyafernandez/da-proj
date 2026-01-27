@@ -18,3 +18,14 @@ The goal of this project is to gradually build skills in analyzing small dataset
 - Understanding datasets
 - Writing basic SQL queries
 - Extracting simple business insights
+
+## SQL Data Analysis
+
+Created a sales database and table using MySQL.  
+Inserted sample sales data and performed analysis to calculate total revenue, revenue by category, and top-selling products.
+
+### Skills Practiced
+- SQL DDL & DML
+- Aggregate functions
+- GROUP BY, ORDER BY
+
